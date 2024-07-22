@@ -1,0 +1,67 @@
+{
+  "contacts": [
+    {
+      "id": "4258",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-26af8.appspot.com/o/avatars%2Fa-7.png?alt=media&token=4589d6d9-eebb-4bd6-a933-76e798ad2dd3",
+      "name": "Ramesh Patel",
+      "email": "ramesh@gmail.com",
+      "phone": "3456217895",
+      "address": "Surat",
+      "notes": "Hr Tech"
+    },
+    {
+      "id": "9387",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-26af8.appspot.com/o/avatars%2Fa-6.png?alt=media&token=feb987ee-b7d0-4e52-aff5-dccbac49880b",
+      "name": "Suresh Ahir",
+      "email": "suresh26@gmail.com",
+      "phone": "84125632145",
+      "address": "Mumbai",
+      "notes": "Tech villa"
+    },
+    {
+      "id": "8187",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-26af8.appspot.com/o/avatars%2Fa-5.png?alt=media&token=adb28e7c-34a7-4fa6-9c7e-2ef63eda154f",
+      "name": "Sunidhi Chauhan",
+      "email": "sunii%6@gmail.com",
+      "phone": "6531459632",
+      "address": "Pune",
+      "notes": "Infotech"
+    },
+    {
+      "id": "5712",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-26af8.appspot.com/o/avatars%2Fa-4.png?alt=media&token=fdb7bc48-f6a7-4a0b-bc2b-c3a6c056f466",
+      "name": "Ravi Gupta",
+      "email": "ravi@gmail.com",
+      "phone": "9956125486",
+      "address": "Surat",
+      "notes": "- - -"
+    },
+    {
+      "id": "7081",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-26af8.appspot.com/o/avatars%2Fa-3.png?alt=media&token=85c185ac-2cf9-40ee-bb9e-73d3aa0c00fb",
+      "name": "Veer Prajapat",
+      "email": "veer2763@gmail.com",
+      "phone": "9924532074",
+      "address": "Pune",
+      "notes": "Techno stake"
+    },
+    {
+      "id": "2307",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-26af8.appspot.com/o/avatars%2Fa-2.png?alt=media&token=3d6c5c4e-7bef-47a7-be42-f5c95030bc70",
+      "name": "Divya Bharti",
+      "email": "diba@gmail.com",
+      "phone": "8869451256",
+      "address": "Mumbai",
+      "notes": "Akash Techworld"
+    },
+    {
+      "id": "6601",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-26af8.appspot.com/o/avatars%2Fa-1.jpg?alt=media&token=b447235f-3072-4996-b328-c46e189dd07a",
+      "name": "Rohan Maharana",
+      "email": "rohan262@gmail.com",
+      "phone": "9924513420",
+      "address": "Suerat",
+      "notes": "ABCD Technology"
+    }
+  ]
+}
